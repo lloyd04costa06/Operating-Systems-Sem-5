@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../CLLoyd/Craftoza ML Recommendation"
+		},
+		{
+			"path": "../../CLLoyd/Admin"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
